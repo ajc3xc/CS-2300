@@ -3,7 +3,7 @@
 
 # CS-2300
 Repository for CS 2300 - File Structures and Introduction to Databases\
-Project Folders and mysql database zip with sql file and instructions on how to install
+Project Folders and mysql database final project with installation instructions
 <br/><br/>
 
 ## Files
