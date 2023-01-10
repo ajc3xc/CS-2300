@@ -8,3 +8,5 @@ Project Folders and mysql database final project with installation instructions
 
 ## Files
 - __[Google Drive](https://drive.google.com/drive/u/0/folders/1oHVCVHLb9wpPPY9QO7IA0vKsB4wmcdHh)__
+- __[Final Project](Final-Project)__
+- __[Project Pictures](Pictures)__
