@@ -4,7 +4,7 @@
 # CS-2300
 Repository for CS 2300 - File Structures and Introduction to Databases\
 Project Folders and mysql database final project with installation instructions\
-Done Fall 2022
+Taken Fall 2022
 <br/><br/>
 
 ## Files
